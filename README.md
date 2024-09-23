@@ -14,7 +14,7 @@ Here's a rundown of the technologies and tools I have hands-on experience with:
 - **Web Testing**: Playwright, Cypress, Codeceptjs
 - **Programming Languages**: JavaScript, Ruby, Java
 - **CI/CD & Version Control**: GitLab, Github
-- **Project Management & Bug Tracking**: Jira, Azure Testplan, Qase
+- **Project Management & Bug Tracking**: Jira, Zephyr, Azure Testplan, Allure Testops, Qase
 - **Cloud Services**: AWS
 - **Cross Browser Testing**: BrowserStack
 - **Container Orchestration**: Rancher
