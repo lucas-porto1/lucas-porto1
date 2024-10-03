@@ -21,12 +21,7 @@ Here's a rundown of the technologies and tools I have hands-on experience with:
 
 In addition to my technical skills, I'm a strong advocate for the shift-left testing approach, ensuring software quality from the early stages of the development cycle. I believe deeply in the power of collaboration and knowledge sharing and have had the pleasure of contributing to the onboarding process of new QAs in my previous roles.
 
-## Off the Keyboard ⚽️
-
-When I'm not immersed in testing, learning new tech, you'll likely find me at [Arena Corinthians](https://goo.gl/maps/VJsMb3D1Rz7jNBHa7?coh=178572&entry=tt) enjoying a good football match. LOL!
-
 ## Let's Connect 💌
 
-I welcome new opportunities, collaborations, and tech discussions. Feel free to reach out to me here or on [LinkedIn](https://www.linkedin.com/in/lucas-porto-gomes-qa/).
-
-Thank you for visiting my GitHub! 😊
+I welcome new opportunities, collaborations, and tech discussions. 
+Feel free to contact me here or on [LinkedIn](https://www.linkedin.com/in/lucas-porto-gomes-qa/).
